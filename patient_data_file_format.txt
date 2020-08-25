@@ -1,0 +1,3 @@
+Firstname,middlename,lastname,ID,phonenumber
+Street,city,country
+Day/month/year
